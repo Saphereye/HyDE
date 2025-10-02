@@ -71,7 +71,6 @@ dolphin                                                # kde file manager
 ark                                                    # kde file archiver
 unzip                                                  # extracting zip files
 vim                                                    # terminal text editor
-code                                                   # ide text editor
 nwg-displays                                           # monitor management utility
 fzf                                                    # Command-line fuzzy finder
 
@@ -81,6 +80,7 @@ starship|zsh                                           # customizable shell prom
 eza|fish                                               # file lister for fish
 starship|fish                                          # customizable shell prompt
 duf|fish                                               # prettier version of df for fish
+dust|fish                                              # prettier version of du
 fastfetch                                              # system information fetch tool
 
 # --------------------------------------------------- // HyDE
