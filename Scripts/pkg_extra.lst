@@ -42,6 +42,7 @@ bat|zsh                                                  # enhanced version of c
 eza|zsh                                                  # file lister for zsh
 duf|zsh                                                  # prettier version of df for zsh
 dust|zsh                                                 # prettier version of du for zsh
+yay
 
 # --------------------------------------------------- // Lockscreen
 #swaylock-effects-git                                   # swaylock with effects // very minimal lockscreen
