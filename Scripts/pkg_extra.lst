@@ -1,5 +1,5 @@
 # --------------------------------------------------- // System
-# downgrade                                            # downgrade packages
+downgrade                                            # downgrade packages
 # trash-cli-git                                        # cli to manage trash files
 # libinput-gestures                                    # actions touchpad gestures using libinput
 # gestures                                             # gui for libinput-gestures
@@ -20,8 +20,12 @@ wf-recorder                                          # Screen recorder for wlroo
 
 # --------------------------------------------------- // Gaming
 steam                                                  # gaming platform
-gamemode                                               # daemon and library for game optimizations
-mangohud                                               # system performance overlay
+blender
+obs
+obsidian
+godot
+# gamemode                                               # daemon and library for game optimizations
+# mangohud                                               # system performance overlay
 # gamescope                                            # micro-compositor for gaming
 # lutris                                               # Lutris is an open source gaming platform for Linux
 
