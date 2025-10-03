@@ -82,6 +82,7 @@ starship|fish                                          # customizable shell prom
 duf|fish                                               # prettier version of df for fish
 dust|fish                                              # prettier version of du
 fastfetch                                              # system information fetch tool
+bat                                                    # better cat
 
 # --------------------------------------------------- // HyDE
 hypridle                                               # idle daemon

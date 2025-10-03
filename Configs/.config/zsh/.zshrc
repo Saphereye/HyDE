@@ -24,6 +24,11 @@ alias lt='eza --icons=auto --tree'                                     # list fo
 # alias po='$aurhelper -Qtdq | $aurhelper -Rns -'                        # remove unused packages, also try > $aurhelper -Qqd | $aurhelper -Rsu --print -
 alias vi='nvim'                                                        # gui code editor
 alias fastfetch='fastfetch --logo-type kitty'
+alias cat=bat
+alias du=dust
+alias df=duf
+
+source <(fzf --zsh)
 
 # # Directory navigation shortcuts
 # alias ..='cd ..'
