@@ -43,6 +43,19 @@ eza|zsh                                                  # file lister for zsh
 duf|zsh                                                  # prettier version of df for zsh
 dust|zsh                                                 # prettier version of du for zsh
 yay
+# --------------------------------------------------- // fish
+bat|fish                                                 # enhanced version of cat
+eza|fish                                                 # file lister
+duf|fish                                                 # prettier version of df
+
+# --------------------------------------------------- // Editor
+# vscodium                                              # Full oss text editor
+# vscodium-marketplace|vscodium                         # VSCodium marketplace
+# code-marketplace|code                                 # Code-Oss marketplace
+# visual-studio-code-bin                                # MS  text editor
+
+# --------------------------------------------------- // Backends
+# electron                                              # electron backend
 
 # --------------------------------------------------- // Lockscreen
 #swaylock-effects-git                                   # swaylock with effects // very minimal lockscreen
